@@ -48,5 +48,8 @@
       <symbol id="icon-frame" viewBox="0 0 32 32">
       <path d="m32 2.67-32 15 10.23 3.15L26 8.5 14 21.99h.01H14v7.34l5.74-5.57L27 26l5-23.33z"/>
     </symbol>
+       <symbol id="icon-mobil-btn" viewBox="0 0 48 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M3 16h42M3 2h42M3 30h42"/>
+    </symbol>
   </defs>
 </svg>

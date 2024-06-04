@@ -28,7 +28,6 @@ img {
   padding-left: 16px;
   padding-right: 16px;
   margin: 0 auto;
-  outline: 3px solid red;
 }
 .section {
   padding-top: 96px;
@@ -37,8 +36,6 @@ img {
 @media screen and (min-width: 768px) {
   .container {
     max-width: 768px;
-
-    outline: 3px solid green;
   }
 }
 @media screen and (min-width: 1158px) {
@@ -46,7 +43,6 @@ img {
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
-    outline: 3px solid yellow;
   }
   .section {
     padding-top: 120px;

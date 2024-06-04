@@ -580,7 +580,7 @@ color: #fff; */
   }
   /* width: calc((100% - 48px) / 3); */
   .items-card {
-    width: 356px;
+    width: 100%;
   }
 }
 @media only screen and (min-width: 1158px) {
@@ -1005,7 +1005,7 @@ color: #fff; */
   transition: 300ms ease-out;
   transition-property: opacity, transform;
 }
-.is-open {
+.burger-menu.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: initial;
